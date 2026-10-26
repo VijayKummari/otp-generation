@@ -138,5 +138,5 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
   // If run via Node.js terminal directly
   console.log("Terminal Run (Node.js):");
   generateotp();
-  console.log("Tip: Open index2.html in your browser to test the interactive 30s cooldown button and limits!");
+  console.log("Tip: Open index.html in your browser to test the interactive 30s cooldown button and limits!");
 }
